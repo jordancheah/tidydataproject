@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data Course Project
 # TidyDataProject
-————————————————————————————
+
 
 ##Program Overview
 run_analysis.R executes the following:
@@ -34,6 +34,6 @@ In the final output file, which is ordered by Subject and Activity,
 ##Tidy Data for Output File DT4.txt
 The final output file fulfills the tidy data set requirements:
 * Each variable forms a column (Subject, ActCode etc)
-* Each observation forms a row, with primary key = Subject,ActCode
+* Each observation forms a row (with primary key = Subject,ActCode)
 * Each data set contains information on only one observational unit
 
